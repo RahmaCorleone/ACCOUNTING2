@@ -1,0 +1,34 @@
+/* provider-management.css */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  cursor: pointer;
+}
+
+.sort-icon {
+  margin-left: 5px;
+}
+
+.container {
+  padding: 20px;
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+}
